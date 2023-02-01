@@ -1,7 +1,43 @@
+
 <!doctype html>
 <html>
-<head><title>hi coding4all</title></head>
-<body>
-<h1>hi coding4all</h1>
-</body>
+  <head>
+    <title>SHRI PADMASHREE HIGH SCHOOL</title>
+    <style>
+    .mydiv {
+      text-align: center;
+    }
+     button {
+      background-color:skyblue;
+       font-size: 50px;
+       padding: 30px;
+       border-radius:40px; 
+       margin:40px;
+      
+    }
+    p {
+       color:red;
+       text-align: center;
+       font-size: 80px;
+    }
+    body {
+       background-color:Yellow;
+    }
+   h1 {
+        color:blue;
+        text-align: center;
+        font-size: 200px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>WELCOME! </h1><br></br>
+    <p>We just heard an awesome, 
+    a new person became a part of our Memorable moments! ...</p><br></br>
+    <a href="https://www.shripadmashreehighschool.in/">
+    <div class="mydiv">
+    <button>GO TO WEBSITE</button>
+    </div>
+    </a>
+    </body>
 </html>
