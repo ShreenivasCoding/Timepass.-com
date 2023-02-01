@@ -1,5 +1,4 @@
 
-<!doctype html>
 <html>
   <head>
     <title>SHRI PADMASHREE HIGH SCHOOL</title>
