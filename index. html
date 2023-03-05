@@ -1,45 +1,33 @@
-
+<!DOCTYPE html>
 <html>
-  <head>
-    <title>SHRI PADMASHREE HIGH SCHOOL</title>
-    <style>
-    .mydiv {
-      text-align: center;
-    }
-     button {
-      background-color:skyblue;
-       font-size: 50px;
-       padding: 30px;
-       border-radius:40px; 
-       margin:40px;
-      
-    }
-    p {
-       color:red;
+<head>
+  <title>Timepass! </title>
+  <style>
+    .Image {
        text-align: center;
-       font-size: 80px;
     }
     body {
-       background-color:Yellow;
+      background-color: orange;
     }
-   h1 {
-        color:blue;
+     .Download {
         text-align: center;
-        font-size: 200px;
-      }
-    </style>
+        font-size: 40px;
+     }
+  </style>
   </head>
   <body>
-    <h1>WELCOME! </h1><br></br>
-    <p>We just heard an awesome, 
-    a new person became a part of our Memorable moments! ...</p><br>
-    <a href="https://www.shripadmashreehighschool.in/">
-    <div class="mydiv">
-    <button>GO TO WEBSITE</button>
+    
+<div class="Image">
+    <img src="https://www.appcreator24.com/android-app-creator/launchers/101.png"><br></br>
     </div>
-    </a>
-    </body>
-</html>
+    <h1 style="text-align: center">TIMEPASS! </h1><br>
+    <div class="Download">
+    <a href="https://apk.e-droid.net/apk/app2493297-idg3fo.apk?v=1"Download>Download</a>
+    </div><br>
+   <h2 style="text-align: center">Website is Under the  Developing stages but, 
+        still you  can Download the app.</h2>
+  </body>
+  </html>
 
 
 
